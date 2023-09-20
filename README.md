@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**diego-betto/diego-betto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diego Betto!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😃 founder & CTO @ [Papion](https://papion.it)
+- 👨‍💻 senior full-stack designer & developer, 
+- 💚 [React](https://github.com/facebook/react)/[Vue.js](https://github.com/vuejs/)/[Node.js](https://github.com/nodejs/node)/[Fastify](https://github.com/fastify/fastify) lover
+- 🏫 teacher @ [ITS Alto Adriatico](https://www.itsaltoadriatico.it/)
+- 
+also
+- 🎶 music-dependent
+- 📷 photography enthusiast ;)
+- 🐶 dogs lover
+- 👨‍🍳 BBQ griller
+- 🛠 DIY maker
